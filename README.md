@@ -1,4 +1,4 @@
-# Showcase_of_some_work
+# Oli's "Portfolio"
 This is a brief collection of work that I have done through University work or hobby projects.  
 
 Contents:
