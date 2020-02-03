@@ -3,6 +3,9 @@ This program simulates a double pendulum using RK4 numerical approximation.
 The code uses a pipe to gnuplot to create a visual animation of the trajectory
 of the pendulum.
 Oli Turner
+
+Note: The GNU pipe implementation was done on Linux, so unfortunately this version of code will not produce an animation of the 
+double pendulum in Windows.
 */
 
 #include <stdio.h>
